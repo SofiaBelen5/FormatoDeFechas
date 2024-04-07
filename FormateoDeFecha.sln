@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormateoDeFecha", "FormateoDeFecha\FormateoDeFecha.csproj", "{80413876-E49F-42F6-BAAF-64BD691C26AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormateoDeFecha.test", "FormateoDeFecha.test\FormateoDeFecha.test.csproj", "{6E95597F-1F95-46E8-9EF6-4CCD869691D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80413876-E49F-42F6-BAAF-64BD691C26AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80413876-E49F-42F6-BAAF-64BD691C26AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80413876-E49F-42F6-BAAF-64BD691C26AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80413876-E49F-42F6-BAAF-64BD691C26AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E95597F-1F95-46E8-9EF6-4CCD869691D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E95597F-1F95-46E8-9EF6-4CCD869691D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E95597F-1F95-46E8-9EF6-4CCD869691D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E95597F-1F95-46E8-9EF6-4CCD869691D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A64BA69-C8AB-4ACB-8538-C9C749AF0149}
+	EndGlobalSection
+EndGlobal
